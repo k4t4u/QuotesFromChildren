@@ -1,7 +1,2 @@
 # QuotesFromChildren
 
-
-Edit.
-
-
-in
